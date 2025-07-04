@@ -6,7 +6,7 @@
     **1.** Create a _https://github.com/Sneha508194/Excel-Sales-Analytics-/blob/main/Customer%20Performance%20Report%20using%20ETL.pdf
 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]https://github.com/Sneha508194/Excel-Sales-Analytics-/blob/main/Market%20Performance%20vs%20Target%20using%20ETL.pdf
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets].https://github.com/Sneha508194/Excel-Sales-Analytics-/blob/main/Market%20Performance%20vs%20Target%20using%20ETL.pdf
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
