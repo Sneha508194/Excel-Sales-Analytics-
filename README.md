@@ -3,7 +3,8 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/ARYANPOKHRIYAL/Excel-Sales-Analytics/blob/Aryan/Customer%20Performance%20Report%20using%20ETL.pdf)_ 
+    **1.** Create a _https://github.com/Sneha508194/Excel-Sales-Analytics-/blob/main/Customer%20Performance%20Report%20using%20ETL.pdf
+
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/ARYANPOKHRIYAL/Excel-Sales-Analytics/blob/Aryan/Market%20Performance%20vs%20Target%20using%20ETL.pdf)_
 
